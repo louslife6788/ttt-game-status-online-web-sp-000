@@ -87,6 +87,4 @@ end
 end
 
 
-board = ["X","X","X","O"]
 
-winner(board)
